@@ -1,0 +1,11 @@
+header{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  align-self: center;
+}
+.main-img{
+  width: 100vh;
+  
+}
